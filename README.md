@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hari Kiran Jangam 👋
+# Hi, I'm Hari Kiran  👋
 
 ### AI/ML Engineer · LLM Applications · Python · MLOps
 
