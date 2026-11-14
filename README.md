@@ -10,8 +10,6 @@
 
 ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge) ![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI%20Agents-DB2777?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge) ![MLOps](https://img.shields.io/badge/MLOps-059669?style=for-the-badge)
 
-I build production-ready LLM applications, RAG systems, and AI agents, backed by a strong foundation in data science and analytics.  
-Building with curiosity. Evaluating with care.
 
 </div>
 
@@ -82,17 +80,6 @@ California Lutheran University
 
 **Bachelor of Technology in Computer Science Engineering**  
 JNTU, Hyderabad
-
-## 🏅 Certifications
-
-![Machine Learning Specialization](https://img.shields.io/badge/Machine%20Learning%20Specialization-0056D2?style=for-the-badge)  
-**DeepLearning.AI & Stanford**
-
-![Generative AI and Large Language Models](https://img.shields.io/badge/Generative%20AI%20and%20Large%20Language%20Models-1261FE?style=for-the-badge&logo=ibm&logoColor=white)  
-**IBM** · Architecture & Data Preparation
-
-![Probability and Statistics for ML and Data Science](https://img.shields.io/badge/Probability%20and%20Statistics%20for%20ML%20and%20Data%20Science-8B5CF6?style=for-the-badge)  
-**DeepLearning.AI**
 
 ---
 
