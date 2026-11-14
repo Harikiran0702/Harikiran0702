@@ -2,7 +2,7 @@
 
 # Hi, I'm Hari Kiran  👋
 
-### AI Engineer · LLMs · RAG · AI Agents
+
 
 ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge) ![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI%20Agents-DB2777?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge) ![MLOps](https://img.shields.io/badge/MLOps-059669?style=for-the-badge)
 
