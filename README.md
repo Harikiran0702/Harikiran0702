@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=200&section=header&text=Hari%20Kiran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer&descAlignY=58&descSize=22" width="100%" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+LLM+applications+%F0%9F%A4%96;Designing+RAG+pipelines+%F0%9F%94%8E;Orchestrating+AI+agents+%F0%9F%A4%9D;Deploying+ML+to+production+%F0%9F%9A%80;Turning+data+into+insights+%F0%9F%93%8A" alt="Typing SVG" /></a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Harikiran0702&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+# Hi, I'm Hari Kiran  👋
 
 ### AI Engineer · LLMs · RAG · AI Agents
 
 ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge) ![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI%20Agents-DB2777?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge) ![MLOps](https://img.shields.io/badge/MLOps-059669?style=for-the-badge)
 
+I build production-ready LLM applications, RAG systems, and AI agents, backed by a strong foundation in data science and analytics.  
+Building with curiosity. Evaluating with care.
 
 </div>
 
@@ -25,11 +23,6 @@
 - 🎓 **Education:** M.S. in Information Technology from California Lutheran University.
 
 ## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,js,fastapi,django,flask,pytorch,tensorflow,sklearn&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,azure,docker,kubernetes,git,gitlab&theme=dark" />
-</p>
 
 ### Languages & APIs
 
@@ -83,40 +76,10 @@ JNTU, Hyderabad
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harikiran0702&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikiran0702&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=Harikiran0702&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harikiran0702&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harikiran0702&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harikiran0702/Harikiran0702/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Harikiran0702/Harikiran0702/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### ✨ Explore my repositories below
 
 Learning, experimenting, and building with AI.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer" width="100%" />
 
 </div>
